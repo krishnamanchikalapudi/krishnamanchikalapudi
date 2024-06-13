@@ -24,6 +24,18 @@ Here are some ideas to get you started:
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnamanchikalapudi\&rank_icon=github)
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnamanchikalapudi\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<a href="https://github.com/krishnamanchikalapudi/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamanchikalapudi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamanchikalapudi\&layout=donut)](https://github.com/krishnamanchikalapudi/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamanchikalapudi)
+<a href="https://github.com/krishnamanchikalapudi/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamanchikalapudi&card_width=320" />
+</a>
+
 -->
 
 <a href="https://github.com/krishnamanchikalapudi/">
@@ -34,6 +46,7 @@ Here are some ideas to get you started:
 </a>
 
 
+<br/><br/><br/><br/>
 **My PRs:**
 - https://github.com/aws-samples/mlops-amazon-sagemaker/pull/35
 - https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pull/8
