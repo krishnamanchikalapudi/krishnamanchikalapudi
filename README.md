@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![LeetCode Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow)
 
 -->
-<div align="center"
+<div align="center">
 <a href="https://github.com/krishnamanchikalapudi/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamanchikalapudi&rank_icon=github&card_width=320" />
 </a>
@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 <a href="[https://git.io/streak-stats](https://github.com/krishnamanchikalapudi/)"><img align="center" src="https://streak-stats.demolab.com?user=krishnamanchikalapudi" alt="GitHub Streak" /></a>
 </div>
 <br/><br/><br/><br/>
+
 **My PRs:**
 - https://github.com/aws-samples/mlops-amazon-sagemaker/pull/35
 - https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pull/8
