@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishnamanchikalapudi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/krishnamanchikalapudi)
+-->
 <!--
 **krishnamanchikalapudi/krishnamanchikalapudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +19,6 @@ Here are some ideas to get you started:
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishnamanchikalapudi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/krishnamanchikalapudi)
 
 <!--
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnamanchikalapudi\&rank_icon=github)
@@ -40,20 +40,31 @@ Here are some ideas to get you started:
 ![LeetCode Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow)
 
 -->
-
+<div align="center"
 <a href="https://github.com/krishnamanchikalapudi/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamanchikalapudi&rank_icon=github&card_width=320" />
 </a>
 <a href="https://github.com/krishnamanchikalapudi/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamanchikalapudi&layout=compact&langs_count=8&card_width=320" />
 </a>
-<br/>
+<br/><br/>
 
-<a href="https://leetcode.com/kmanchikalapudi">
-  LeetCode: <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+<a href="https://leetcode.com/kmanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/krishnamanchikalapudi" target="_new">
+  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishnamanchikalapudi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)" />
 </a>
 
+<br/><br/>
 
+<a href="[https://git.io/streak-stats](https://github.com/krishnamanchikalapudi/)"><img align="center" src="https://streak-stats.demolab.com?user=krishnamanchikalapudi" alt="GitHub Streak" /></a>
+</div>
 <br/><br/><br/><br/>
 **My PRs:**
 - https://github.com/aws-samples/mlops-amazon-sagemaker/pull/35
