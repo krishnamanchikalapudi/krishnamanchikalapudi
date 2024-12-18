@@ -67,8 +67,7 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/>
 
 **My GitHub Actions:**
-- [Spring-Petclinic](https://github.com/krishnamanchikalapudi/spring-petclinic) using JF-CLI to build Docker image: [![JF-CLI with MVN Docker](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-mvn-docker.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-mvn-docker.yml)
-- [Spring-Petclinic](https://github.com/krishnamanchikalapudi/spring-petclinic) using JF-CLI to build Maven [![JF-CLI with Maven](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-mvn.yml/badge.svg?branch=main)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-mvn.yml)
+- [Spring-Petclinic](https://github.com/krishnamanchikalapudi/spring-petclinic) using JF-CLI to Package, BuildInfo, & RBv2: [![JF-CLI: MVN & Gradle](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-java.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-java.yml)
 
 **My PRs:**
 - https://github.com/aws-samples/mlops-amazon-sagemaker/pull/35
