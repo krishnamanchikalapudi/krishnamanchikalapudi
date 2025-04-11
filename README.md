@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 <br/><br/>
 <a href="https://DayOne.dev" target="_new">
-  DayOne.dev <img align="center" src="https://img.shields.io/website?url=https%3A%2F%2Fdayonedev.wordpress.com&style=for-the-badge" />
+  https://DayOne.dev <img align="center" src="https://img.shields.io/website?url=https%3A%2F%2Fdayonedev.wordpress.com&style=for-the-badge" />
 </a>
 <br/><br/>
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
