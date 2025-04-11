@@ -48,6 +48,10 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamanchikalapudi&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br/><br/>
+<a href="https://DayOne.dev" target="_new">
+  DayOne.dev <img align="center" src="https://img.shields.io/website?url=https%3A%2F%2Fdayonedev.wordpress.com&style=for-the-badge" />
+</a>
+<br/><br/>
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
   <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkmanchikalapudi&logo=leetcode&logoColor=yellow" />
 </a>
