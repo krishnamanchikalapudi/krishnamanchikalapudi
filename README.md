@@ -85,7 +85,8 @@ Here are some ideas to get you started:
 **My PRs:**
 - https://github.com/aws-samples/mlops-amazon-sagemaker/pull/35
 - https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pull/8
-
+  
+<!--
 **My GitHub Actions:**
 - [Spring-Petclinic](https://github.com/krishnamanchikalapudi/spring-petclinic) using JF-CLI to Package, BuildInfo, & RBv2: [![JF-CLI: MVN & Gradle](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-java.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/jfcli-java.yml)
-
+  -->
