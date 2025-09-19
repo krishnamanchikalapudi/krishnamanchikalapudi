@@ -83,8 +83,9 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/>
 
 **My PRs:**
-- https://github.com/aws-samples/mlops-amazon-sagemaker/pull/35
-- https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pull/8
+- [MLOps Amazon Sagemaker](https://github.com/aws-samples/mlops-amazon-sagemaker/pulls?q=is%3Apr+is%3Aclosed+author%3Akrishnamanchikalapudi)
+- [Amazon SageMaker Feature Store](https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Akrishnamanchikalapudi)
+- [Spring-Petclinic](https://github.com/spring-projects/spring-petclinic/pulls?q=is%3Apr+author%3Akrishnamanchikalapudi+is%3Aclosed)
   
 <!--
 **My GitHub Actions:**
