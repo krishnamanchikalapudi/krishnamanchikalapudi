@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 - [MLOps Amazon Sagemaker](https://github.com/aws-samples/mlops-amazon-sagemaker/pulls?q=is%3Apr+is%3Aclosed+author%3Akrishnamanchikalapudi)
 - [Amazon SageMaker Feature Store](https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Akrishnamanchikalapudi)
 - [Spring-Petclinic](https://github.com/spring-projects/spring-petclinic/pulls?q=is%3Apr+author%3Akrishnamanchikalapudi+is%3Aclosed)
+- [![MY Spring-Petclinic Pipeline](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/mypipeline.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/mypipeline.yml)
   
 <!--
 **My GitHub Actions:**
