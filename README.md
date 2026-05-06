@@ -1,4 +1,11 @@
 ### Hi there 👋
+<div align="center">
+<img src="./images/header.svg" /><br/>
+<img src="./images/typing.svg" />
+
+
+
+</div>
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishnamanchikalapudi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/krishnamanchikalapudi)
 -->
@@ -41,15 +48,9 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-<a href="https://github.com/krishnamanchikalapudi/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamanchikalapudi&rank_icon=github&card_width=320" />
-</a>
-<a href="https://github.com/krishnamanchikalapudi/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamanchikalapudi&layout=compact&langs_count=8&card_width=320" />
-</a>
-<br/><br/>
+
 <a href="https://DayOne.dev" target="_new" style="text-decoration:none;">
-  https://DayOne.dev <img align="center" src="https://img.shields.io/website?url=https%3A%2F%2Fdayonedev.wordpress.com&style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/website?url=https%3A%2F%2Fdayone.dev&label=https://DayOne.dev" />
 </a>
 <br/><br/>
 <a href="https://leetcode.com/kmanchikalapudi" target="_new">
@@ -57,7 +58,10 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/krishnamanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@dayonedev" target="_new">
@@ -69,7 +73,7 @@ Here are some ideas to get you started:
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/krishnamanchikalapudi" target="_new">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Krishna%20Manchikalapudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/kmanchikalapudi" target="_new">
