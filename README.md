@@ -87,10 +87,8 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/>
 
 **My PRs:**
+- [Spring-Petclinic-AI](https://github.com/spring-petclinic/spring-petclinic-ai/issues/9)
 - [Spring-Petclinic](https://github.com/spring-projects/spring-petclinic/pulls?q=is%3Apr+author%3Akrishnamanchikalapudi+is%3Aclosed)
-  - AI capabilities [![My Pipeline - AI capabilities](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/mypipeline.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/mypipeline.yml)
-  - [![Java CI with Maven](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/maven-build.yml)
-  - [![Java CI with Gradle](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/krishnamanchikalapudi/spring-petclinic/actions/workflows/gradle-build.yml)
 - [MLOps Amazon Sagemaker](https://github.com/aws-samples/mlops-amazon-sagemaker/pulls?q=is%3Apr+is%3Aclosed+author%3Akrishnamanchikalapudi)
 - [Amazon SageMaker Feature Store](https://github.com/aws-samples/amazon-sagemaker-feature-store-examples/pulls?q=is%3Apr+is%3Aclosed+author%3Akrishnamanchikalapudi)
 
